@@ -21,7 +21,7 @@ const WhyChooseCard = ({ image, title }: Props ) => {
             {title}
             </h1>
         <p className="mt-2 text-center text-xs font-medium text-gray-700">
-        Your journey to success begins with us—let's create together.
+        Your journey to success begins with us—lets create together.
             </p>
     </div>
   )

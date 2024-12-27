@@ -1,7 +1,7 @@
 "use client";
 import React from 'react'
 
-import { Swiper, SwiperClass, SwiperSlide } from 'swiper/react'
+import { Swiper, SwiperSlide } from 'swiper/react'
 import "swiper/css";
 import "swiper/css/effect-cards";
 import { EffectCards } from "swiper/modules";

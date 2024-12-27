@@ -11,7 +11,7 @@ const Reviews = () => {
                 What our customersvare saying us?
             </h1>
             <p className="mt-6 text-gray-200">
-            Working with them was a game-changer. They understood our needs and crafted a solution that was both intuitive and powerful. Their commitment to innovation has helped us stay ahead of the competition."
+            Working with them was a game-changer. They understood our needs and crafted a solution that was both intuitive and powerful. Their commitment to innovation has helped us stay ahead of the competition.
             </p>
             {/* Ratings */}
             <div className="mt-6 flex items-center space-x-6">
